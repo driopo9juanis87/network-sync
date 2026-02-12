@@ -1,0 +1,3 @@
+name: "siaran",
+no: 12,
+clue: "turtle"
